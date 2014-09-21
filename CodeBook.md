@@ -14,7 +14,8 @@ The final output is result.txt
 The finaly output variable in result.txt:
 
 activity: (WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING) 
-          Each person performed six activities 
+          
+Each person performed six activities 
 
 subject:  Each person's code(1-30)
 
