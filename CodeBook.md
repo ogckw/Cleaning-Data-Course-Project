@@ -19,7 +19,7 @@ Each person performed six activities
 
 subject:  Each person's code(1-30)
 
-The set of variables have completed to calculate the averages of mean and standard deviation average.
+The set of variables have completed to calculate the averages of mean and standard deviation.
 (if you have already read "readme.md" and downloaded the link file from internet , 
 
 the file in zip "features_info.txt" will indicate the following variable names mean. 
