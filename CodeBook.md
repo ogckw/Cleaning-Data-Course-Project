@@ -13,11 +13,11 @@ The final output is result.txt
 
 The finaly output variable in result.txt:
 
-activity: (WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING)
+activity: (WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING) 
 
           Each person performed six activities 
 
-subject: Each person's code(1-30)
+subject:  Each person's code(1-30)
 
 The set of variables have completed to calculate the averages of mean and standard deviation average.
 (if you have already read "readme.md" and downloaded the link file from internet , 
@@ -29,21 +29,37 @@ Or, you can read it in bottom)
 the variable name type will be like below and add mean() or std() after: 
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 
