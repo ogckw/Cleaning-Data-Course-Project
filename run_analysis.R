@@ -23,6 +23,10 @@ for (i in 1:nrow(lb)) {
   name <- as.character(lb[i, 2])
   y[y$activity == code, ] <- name
 }
+
+melb <- cbind(y, me)
+msvlb <- cbind(y, msv)
+
 ##Create a second independent tidy data set with the average of each variable for each activity and each subject
 subte <- read.table("./UCI HAR Dataset/test/subject_test.txt", col.names = c('subject'))
 subtr <- read.table("./UCI HAR Dataset/train/subject_train.txt", col.names = c('subject'))
